@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FtoC</string>
+    <string name="hidden1">请输入华氏温度</string>
+    <string name="hidden2">结果为...</string>
+    <string name="button">转换</string>
+    <string name="team">TEAM_A</string>
+    <string name="Score">0</string>
+    <string name="score">+1</string>
+    <string name="score2">+2</string>
+    <string name="score3">+3</string>
+    <string name="reset">reset</string>
+    <string name="inputRMB">inputRMB</string>
+    <string name="HELLO">HELLO</string>
+    <string name="DOLLAR">DOLLAR</string>
+    <string name="EURO">EURO</string>
+    <string name="WON">WON</string>
+    <string name="EDIT">EDIT</string>
+    <string name="newRatio">newRatio</string>
+
+
+</resources>
